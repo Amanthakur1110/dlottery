@@ -1,10 +1,10 @@
 const mysql = require('mysql2/promise');
 
 const connection = mysql.createPool({
-    host: 'sql211.ezyro.rom',
-    user: 'ezyro_35902012',
-    password: 'Aman@7693',
-    database: 'ezyro_35902012_doublekamaii'
+    host: 'bruza98xqy7xfhgosatc-mysql.services.clever-cloud.com',
+    user: 'u3pyycaxyegeonna',
+    password: 'nsVLeSydMHmjxzPZ4Qle',
+    database: 'bruza98xqy7xfhgosatc'
 });
 
 // const connection = mysql.createPool({
